@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+there+👋;I'm+Mustafa+Al-Btoush;Backend+Developer+.NET;Full+Stack+Developer;Always+Learning+New+Technologies" />
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%"/>
 
 # Mustafa Al-Btoush
 
