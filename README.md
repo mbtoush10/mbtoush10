@@ -108,7 +108,6 @@
 
 ---
 
-
 # 📫 Connect With Me
 
 <p align="center">
@@ -125,18 +124,13 @@
 <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
 </a>
 
+<a href="https://www.instagram.com/voxdt/">
+<img src="https://skillicons.dev/icons?i=instagram" width="40"/>
+</a>
+
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
 
 ⭐ Always learning new technologies and improving my development skills.
